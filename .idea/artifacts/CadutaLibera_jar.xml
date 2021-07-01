@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CadutaLibera:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CadutaLibera_jar</output-path>
+    <root id="archive" name="CadutaLibera.jar">
+      <element id="module-output" name="CadutaLibera" />
+    </root>
+  </artifact>
+</component>
