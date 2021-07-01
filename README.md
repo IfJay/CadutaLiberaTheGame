@@ -7,4 +7,4 @@ This is a real TV game show in italy and i tried to recreate it
 + you have to guess the word by reading the hints above
 + you have 3 min to give all the 10 answers or you lose
 
-**P.S** i know the code is messy and bad
+**P.S** i know, the code is messy and bad
